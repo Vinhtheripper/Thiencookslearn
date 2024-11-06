@@ -19,3 +19,5 @@ h=draw_pattern_2b(int(input('Please input n: ')))
 print(h)
 
 print('Hello Ái Thiện, Khánh')
+print('Hello loz Vinh')
+
